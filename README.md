@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wei Ming</h1>
-<h3 align="center">A passionate frontend, soon to be fullstack, developer from Hamburg, Germany</h3>
-
-- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available on [my Portfolio](https://weimingtay.github.io/2023_Portfolio/)
 
